@@ -12,15 +12,21 @@
 </script>
 
 <style>
+    
     .panel-body {
         font-family: 'Arizonia', cursive;
-        font-size: 24px;
+        font-size: 18px;
         color: #6e6e6e;
         background-color: aqua;
     }
 
     .quote {
         cursor: pointer;
+        margin-bottom: 10px;
+        min-height: 105px;
+        max-height: 105px;        
+        padding: 15px;
+        border-radius: 10px;
     }
     .quote:hover {
         background-color: #ffe2e2;
