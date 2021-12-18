@@ -1,18 +1,16 @@
-# vue-cli
+# great-quotes-cli
 
-> A Vue.js project
+> A Vue.js project created with vue-cli 2.9.6
 
-## Build Setup
+# Used components
 
-``` bash
-# install dependencies
-npm install
+1. Header
+2. Quote
+3. NewQuote
+4. QuoteGrid
 
-# serve with hot reload at localhost:8080
-npm run dev
+# Used slots, props and emits
 
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+1. Passed a component in slot
+2. Emit NewQuote to QuoteGrid component
+3. Passed props to child components
