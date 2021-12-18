@@ -1,4 +1,4 @@
-# great-quotes-cli
+# GreatQuotes-VueCli-1
 
 > A Vue.js project created with vue-cli 2.9.6
 
